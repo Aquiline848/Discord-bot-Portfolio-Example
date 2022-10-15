@@ -1,0 +1,24 @@
+{
+  "name": "botdjsv14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-image-generation": "^1.4.13",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.6.0",
+    "node-gyp": "^9.1.0",
+    "node-pre-gyp": "^0.17.0",
+    "nodemon": "^2.0.19",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  }
+}
